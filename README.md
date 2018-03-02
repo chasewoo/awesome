@@ -7,6 +7,7 @@
 * [Docker 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
 * [Docker 中文手册](https://docs.docker-cn.com)
 * [VIM 键盘手册](http://img.my.csdn.net/uploads/201205/11/1336731669_1612.gif)
+* [更丰富的 VIM 键盘图](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Shell 脚本 30 分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Segmentfault 开发者手册集合](https://docs.segmentfault.com)
 
@@ -37,3 +38,8 @@
 ### 设计资源
 
 * [知名企业矢量 Logo 文件](http://www.60logo.com)
+
+### 其他
+
+* [Github Awesome 集合](https://github.com/topics/awesome)
+* [机器之星 人工智能资讯网站](https://www.jiqizhixin.com)
