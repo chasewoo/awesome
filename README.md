@@ -11,6 +11,10 @@
 * [Shell 脚本 30 分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Segmentfault 开发者手册集合](https://docs.segmentfault.com)
 
+### Machine learning
+
+* [GOOGLE](https://developers.google.cn/machine-learning/crash-course/)
+
 ### 前端
 
 * [React 中文文档](https://doc.react-china.org)
