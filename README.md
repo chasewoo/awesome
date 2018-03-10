@@ -17,8 +17,14 @@
 
 ### 前端
 
-* [React 中文文档](https://doc.react-china.org)
 * [JS 函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+
+### React
+
+* [React 中文文档](https://doc.react-china.org)
+* [Mobx](https://mobx.js.org/index.html)
+* [React Router Web](https://reacttraining.com/react-router/web/guides/philosophy)
+* [Create React App User Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
 ### Node
 
