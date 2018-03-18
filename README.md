@@ -11,13 +11,14 @@
 * [Shell 脚本 30 分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Segmentfault 开发者手册集合](https://docs.segmentfault.com)
 
-### Machine learning
+### 机器学习
 
-* [GOOGLE](https://developers.google.cn/machine-learning/crash-course/)
+* [GOOGLE 机器学习课程](https://developers.google.cn/machine-learning/crash-course/)
 
 ### 前端
 
 * [JS 函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+* [TypeScript 中文版](https://www.tslang.cn)
 
 ### React
 
@@ -53,3 +54,4 @@
 
 * [Github Awesome 集合](https://github.com/topics/awesome)
 * [机器之星 人工智能资讯网站](https://www.jiqizhixin.com)
+* [巴比特](http://www.8btc.com)
