@@ -19,6 +19,7 @@
 
 * [JS 函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 * [TypeScript 中文版](https://www.tslang.cn)
+* [How to GraphQL](https://www.howtographql.com)
 
 ### React
 
