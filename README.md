@@ -10,6 +10,7 @@
 * [更丰富的 VIM 键盘图](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Shell 脚本 30 分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [Segmentfault 开发者手册集合](https://docs.segmentfault.com)
+* [设计模式 Java 版](https://gof.quanke.name)
 
 ### 机器学习
 
