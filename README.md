@@ -31,6 +31,7 @@
 * [React Router Web](https://reacttraining.com/react-router/web/guides/philosophy)
 * [Create React App User Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 * [React new lifecycle](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
+* [React 实践设计模式](https://github.com/krasimir/react-in-patterns) 👍👍👍
 
 ### Node
 
