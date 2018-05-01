@@ -5,3 +5,9 @@
 ``` bash
 $ npm i -g fkill-cli
 ```
+
+使用
+
+``` bash
+$ fkill
+```
