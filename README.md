@@ -22,7 +22,7 @@
 * [TypeScript 中文版](https://www.tslang.cn)
 * [How to GraphQL](https://www.howtographql.com)
 * [You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
-* [蚂蚁金服前段博客](https://github.com/ProtoTeam/blog)
+* [蚂蚁金服前端博客](https://github.com/ProtoTeam/blog)
 
 ### React
 
