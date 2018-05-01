@@ -35,7 +35,7 @@
 
 ### Node
 
-* [Node 8.9 LTS 文档](https://nodejs.org/docs/latest-v8.x/api/)
+* [Node 8.x LTS 文档](https://nodejs.org/docs/latest-v8.x/api/)
 * [NPM ORG 账号手册](https://www.npmjs.com/docs/orgs/)
 * [JS 正则表达式测试](https://regexr.com)
 
