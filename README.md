@@ -21,7 +21,7 @@
 * [JS 函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 * [TypeScript 中文版](https://www.tslang.cn)
 * [How to GraphQL](https://www.howtographql.com)
-* [待读][You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+* [You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 * [蚂蚁金服前段博客](https://github.com/ProtoTeam/blog)
 
 ### React
