@@ -17,7 +17,7 @@
 * [React Router Web](https://reacttraining.com/react-router/web/guides/philosophy)
 * [Create React App User Guide](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 * [React new lifecycle](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
-* [React 实践设计模式](https://github.com/krasimir/react-in-patterns) 👍👍👍
+* [React 实践设计模式](https://github.com/krasimir/react-in-patterns)
 
 ### Node
 
@@ -29,7 +29,7 @@
 
 ### Shell
 
-* [Linux 工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+* [Linux 工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html) 【待读】
 * [VIM 键盘手册](http://img.my.csdn.net/uploads/201205/11/1336731669_1612.gif)
 * [更丰富的 VIM 键盘图](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Shell 脚本 30 分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
