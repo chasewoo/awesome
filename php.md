@@ -16,3 +16,8 @@ apt-get install php7.1 php7.1-fpm php7.1-cli php7.1-common php7.1-mbstring php7.
 ```
 
 如果报错，缺少依赖，查看根目录下其他文章
+
+
+### 引用
+
+* https://www.vultr.com/docs/how-to-install-and-configure-php-70-or-php-71-on-ubuntu-16-04
