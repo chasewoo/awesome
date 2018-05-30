@@ -7,7 +7,7 @@
 * libltdl7_2.4.6
 * libseccomp2_2.3.1
 
-可以通过在 https://launchpad.net 网站上下载，以 libseccomp2 为例：
+可以通过在 https://launchpad.net/ubuntu/xenial 网站上下载，以 libseccomp2 为例：
 
 打开 https://launchpad.net/ubuntu/xenial/amd64/libseccomp2/2.3.1-2.1ubuntu2~16.04.1 网站，找到相关的 deb 包。
 
