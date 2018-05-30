@@ -9,6 +9,7 @@
 * [How to GraphQL](https://www.howtographql.com)
 * [You don't need jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 * [蚂蚁金服前端博客](https://github.com/ProtoTeam/blog)
+* [Javscript Algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 ### React
 
