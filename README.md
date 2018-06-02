@@ -72,3 +72,4 @@
 * [巴比特](http://www.8btc.com)
 * [Google Art & Culture](https://artsandculture.google.com)
 * [Segmentfault 开发者手册集合](https://docs.segmentfault.com)
+* [Hugo](https://gohugo.io)
