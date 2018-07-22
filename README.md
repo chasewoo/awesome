@@ -76,3 +76,4 @@
 * [Segmentfault 开发者手册集合](https://docs.segmentfault.com)
 * [Hugo](https://gohugo.io)
 * [Confluence Wiki](https://www.cwiki.us/#all-updates)
+* [Apple Videos](https://developer.apple.com/videos/)
