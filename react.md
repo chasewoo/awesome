@@ -1,6 +1,6 @@
 React Based Components
 
-TypeScript
+Write React in TypeScript
 
 * https://charleslbryant.gitbooks.io/hello-react-and-typescript/content/
 
